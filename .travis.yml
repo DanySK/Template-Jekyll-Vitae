@@ -4,7 +4,7 @@ if: repo != head_repo
 # from http://jekyllrb.com/docs/continuous-integration/
 language: ruby
 rvm:
-- 2.4.2
+- 2.7.0
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
